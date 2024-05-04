@@ -1,4 +1,4 @@
-### Alex: I used Visual Studio Code and downloaded the dependencies from there using the terminal (dlib took a long time). Let me know if you can or cannot get this running on your machines. 
+### Check final report pdf for contributions
 
 
 # Gaze Tracking
